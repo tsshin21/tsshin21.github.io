@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
-Division of Business Administration
+subtitle: <a href='#'>Affiliations</a>. Division of Business Administration
 College of Humanities & Social Sciences Convergence
 Yonsei University
 1 Yonseidae-gil, Wonju, Gangwon, South Korea
