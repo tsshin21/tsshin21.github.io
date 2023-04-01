@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Division of Business Administration, College of Humanities & Social Sciences Convergence, Yonsei University /
-1 Yonseidae-gil, Wonju, Gangwon, South Korea
-Tel: +82-33-760-2335
+subtitle: <a href='#'>Affiliations</a>. Division of Business Administration, College of Humanities & Social Sciences Convergence, Yonsei University, 1 Yonseidae-gil, Wonju, Gangwon, South Korea, Tel: +82-33-760-2335
 
 profile:
   align: right
