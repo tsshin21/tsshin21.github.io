@@ -2,17 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 
+Division of Business Administration
+College of Humanities & Social Sciences Convergence
+Yonsei University
+1 Yonseidae-gil, Wonju, Gangwon, South Korea
+Tel: +82-33-760-2335
 
 profile:
   align: right
   image: Prof Shin.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  address: 
+    
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
